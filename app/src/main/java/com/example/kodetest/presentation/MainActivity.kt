@@ -1,4 +1,4 @@
-package com.example.kodetest
+package com.example.kodetest.presentation
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
